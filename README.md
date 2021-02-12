@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre)  [<img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/) [<img src = "https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dallatorre.io/)
+[<img src="https://img.shields.io/badge/YouTube-2D8CFF?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre)  [<img src="https://img.shields.io/badge/linkedin-2D8CFF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/) [<img src = "https://img.shields.io/badge/instagram-2D8CFF?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dallatorre.io/)
 
 
 I'm Eduardo Dalla Torre and a Brazilian 🇧🇷, currently I'm a Freelancer in England 🇬🇧 ,  creating modern and responsive designs for Website, Ecommerce, Web System and I use the most modern techniques for developer existing on the internet.
