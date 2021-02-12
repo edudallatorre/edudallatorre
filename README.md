@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />](https://youtube.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre)  [<img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/) [<img src = "https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dallatorre.io/)
 
 
 I'm Eduardo Dalla Torre and a Brazilian 🇧🇷, currently I'm a Freelancer in England 🇬🇧 ,  creating modern and responsive designs for Website, Ecommerce, Web System and I use the most modern techniques for developer existing on the internet.
@@ -25,4 +25,4 @@ Follow me on my networks where I share a little more about myself.
 
 - 🙋‍♂️   I love to share experience and make new friends.
 - 🎥   I share my experiences on my YouTube channel.
-- 👨‍🎓   Visit my profile.
+- 👨‍🎓   Visit my profile. <a href="https://eduardodallatorre.com/">Know more</a>
