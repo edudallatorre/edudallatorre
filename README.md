@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Linkedin Badge]]
+[![YouTube Badge]]
+
 I'm Eduardo Dalla Torre and a Brazilian 🇧🇷, currently I'm a Freelancer in England 🇬🇧 ,  creating modern and responsive designs for Website, Ecommerce, Web System and I use the most modern techniques for developer existing on the internet.
 
 Follow me on my networks where I share a little more about myself.
