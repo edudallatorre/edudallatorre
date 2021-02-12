@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Eduardo Dalla Torre
+# Eduardo Dalla Torre
 
 [<img src="https://img.shields.io/badge/YouTube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre)  [<img src="https://img.shields.io/badge/linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/) [<img src = "https://img.shields.io/badge/instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/dallatorre.io/)
 
