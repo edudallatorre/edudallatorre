@@ -20,6 +20,6 @@ I'm Eduardo Dalla Torre and a Brazilian 🇧🇷, currently I'm a Freelancer in 
 
 Follow me on my networks where I share a little more about myself.
 
-🙋‍♂️   I love to share experience and make new friends.
-🎥   I share my experiences on my YouTube channel.
-👨‍🎓   Visit my profile.
+- 🙋‍♂️   I love to share experience and make new friends.
+- 🎥   I share my experiences on my YouTube channel.
+- 👨‍🎓   Visit my profile.
