@@ -33,10 +33,7 @@ Follow me on my networks where I share a little more about myself.
 - 👨‍🎓   Visit my profile. <a href="https://eduardodallatorre.com/">Know more</a>
 
 <a href="https://github.com/eduardodallatorre/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/eduardodallatorre/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact)](https://github.com/eduardodallatorre/github-readme-stats"/>
 </a>
 
 #### Languages and tools: 
