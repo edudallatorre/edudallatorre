@@ -34,6 +34,7 @@ Follow me on my networks where I share a little more about myself.
 
 <a href="https://github.com/eduardodallatorre/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </a>
 
 #### Languages and tools: 
