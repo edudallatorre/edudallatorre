@@ -57,4 +57,4 @@ I'm Eduardo Dalla Torre and a Brazilian, currently I am a Software Engineer and 
 </code>
 </p>
 
-![Snake animation](https://github.com/eduardodallatorre/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eduardodallatorre/eduardodallatorre/svg/grid-snake.svg)
