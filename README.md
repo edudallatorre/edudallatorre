@@ -32,8 +32,8 @@ Follow me on my networks where I share a little more about myself.
 <!-- - 🎥   I share my experiences on my YouTube channel. -->
 - 👨‍🎓   Visit my profile. <a href="https://eduardodallatorre.com/">Know more</a>
 
-<a href="https://github.com/eduardodallatorre/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=dark"/>
+<a href="https://eduardodallatorre.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact&theme=dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardodallatorre&show_icons=true&theme=dark"/>
 </a>
 
