@@ -33,7 +33,7 @@ Follow me on my networks where I share a little more about myself.
 - 👨‍🎓   Visit my profile. <a href="https://eduardodallatorre.com/">Know more</a>
 
 <a href="https://eduardodallatorre.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&theme=dark"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardodallatorre&show_icons=true&theme=dark"/>
 </a>
 
