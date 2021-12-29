@@ -56,3 +56,5 @@ I'm Eduardo Dalla Torre and a Brazilian, currently I am a Software Engineer and 
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;"></a>
 </code>
 </p>
+
+![Snake animation](https://github.com/eduardodallatorre/eduardodallatorre/blob/output/github-contribution-grid-snake.svg)
