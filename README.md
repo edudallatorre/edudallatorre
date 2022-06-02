@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Eduardo Dalla Torre <img src="https://github.com/mupezzuol/mupezzuol/raw/master/assets/developer.gif" width="30px" style="max-width:100%;">
+# Eduardo Dalla Torre <!--<img src="https://github.com/mupezzuol/mupezzuol/raw/master/assets/developer.gif" width="30px" style="max-width:100%;">-->
 
  [<img src="https://img.shields.io/badge/linkedin-1877F2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/)
  [<img src="https://img.shields.io/badge/codepen-444857?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/eduardodallatorre) 
