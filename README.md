@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my profile. 
 
-I'm Eduardo Dalla Torre and a Brazilian, currently I'm a Software Engineer and I am passionate about programming and I'm always looking to learn more, solve problems and create solutions.
+I'm a Developer, Brazilian and passionate about programming. I have experience in Business Administration, Systems Analysis and Development and Graphic Design.
 
 <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="24" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"> I love to share experience and make new friends.   
 <!-- - 🎥   I share my experiences on my YouTube channel. -->
@@ -38,7 +38,7 @@ I'm Eduardo Dalla Torre and a Brazilian, currently I'm a Software Engineer and I
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact&theme=dark"/>
 </a>
 
-#### Languages and tools: 
+<!-- #### Languages and tools: 
 <p>
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a></code>
@@ -59,6 +59,6 @@ I'm Eduardo Dalla Torre and a Brazilian, currently I'm a Software Engineer and I
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" style="max-width:100%;"></a>
 </code>
-</p>
+</p> -->
 
 ![Snake animation](https://github.com/eduardodallatorre/eduardodallatorre/blob/main/svg/grid-snake.svg)
