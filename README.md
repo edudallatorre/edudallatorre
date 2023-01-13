@@ -33,11 +33,6 @@ I'm a developer, Brazilian and passionate about programming. I have experience i
 <!-- - 🎥   I share my experiences on my YouTube channel. -->
 🙋‍♂️ Visit my profile. <a href="https://eduardo.dallatorre.dev/">Know more</a>
 
-<!-- stats vercel app -->
-<a href="https://eduardo.dallatorre.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardodallatorre&layout=compact&theme=dark"/>
-</a>
-
 <!-- #### Languages and tools: 
 <p>
 <code>
