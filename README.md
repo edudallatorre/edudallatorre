@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/codepen-444857?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/edudallatorre) 
 [<img src = "https://img.shields.io/badge/instagram-1877F2?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/edudallatorre/) 
 [<img src="https://img.shields.io/badge/YouTube-1877F2?style=flat-square&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre) 
-[<img src="https://img.shields.io/badge/linkedin-1877F2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eduardodallatorre/) 
 
 ### Welcome to my profile. 
 
