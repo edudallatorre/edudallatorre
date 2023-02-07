@@ -33,7 +33,7 @@ I'm a developer, Brazilian and passionate about programming. I have experience i
 <!-- - 🎥   I share my experiences on my YouTube channel. -->
 🙋‍♂️ Visit my profile. <a href="https://eduardo.dallatorre.dev/">Know more</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&theme=dark&card_width=200px)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&theme=dark&line_height=27&card_width=250)
 
 <!-- #### Languages and tools: 
 <p>
