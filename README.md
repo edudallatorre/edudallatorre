@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Welcome to my profile. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&langs_count=8)](https://github.com/edudallatorre/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact)](https://github.com/edudallatorre/github-readme-stats)
 
 I'm a developer, Brazilian and passionate about programming. I have experience in Systems Analysis and Development, Business Administration and Graphic Design.
 
@@ -34,7 +34,6 @@ I'm a developer, Brazilian and passionate about programming. I have experience i
 🙋‍♂️ Visit my profile. <a href="https://eduardo.dallatorre.dev/">Know more</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact)](https://github.com/edudallatorre/github-readme-stats)
 
 <!-- #### Languages and tools: 
 <p>
