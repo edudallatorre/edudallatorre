@@ -32,6 +32,7 @@ I'm a developer, Brazilian and passionate about programming. I have experience i
 🙋‍♂️ Visit my profile. <a href="https://eduardo.dallatorre.dev/">Know more</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact)](https://github.com/edudallatorre/github-readme-stats)
 
 <!-- #### Languages and tools: 
 <p>
