@@ -20,11 +20,11 @@ I really enjoy teaching what I know and what I've been learning from others
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0565D1&icon_color=0565D1&text_color=ffffff&bg_color=0d1118" alt="Eduardo Dalla Torre github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0565D1&text_color=0565D1&bg_color=0d1118"/>
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0665d1&icon_color=0865d1&text_color=ffffff&bg_color=0d1118" alt="Eduardo Dalla Torre github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0865d1&text_color=0865d1&bg_color=0d1118"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edudallatorre&bg_color=0d1118&color=3494ff&line=0665d1&point=f5f5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edudallatorre&bg_color=0d1118&color=f5f5f7&line=0665d1&point=f5f5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🛠 &nbsp;Languages and tools: 
 
