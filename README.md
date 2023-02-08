@@ -18,8 +18,11 @@ I really enjoy teaching what I know and what I've been learning from others
 - <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="24" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"> I love to share experience and make new friends.
 
 ### ⚙️ &nbsp;GitHub Analytics
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0565D1&text_color=000000&bg_color=f5f5f7" />
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0565D1&icon_color=0565D1&text_color=000000&bg_color=f5f5f7" alt="Eduardo Dalla Torre github stats" /> 
+
+<div align="center">  
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0565D1&icon_color=0565D1&text_color=000000&bg_color=f5f5f7" alt="Eduardo Dalla Torre github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0565D1&text_color=000000&bg_color=f5f5f7"/>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edudallatorre&bg_color=f5f5f7&color=000000&line=0565d1&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -66,6 +69,8 @@ I really enjoy teaching what I know and what I've been learning from others
 
 
 
+
+ 
 
 
 
