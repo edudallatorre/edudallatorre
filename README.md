@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=38&left=true&vCenter=true&width=1000&lines=Hey+there+👋;My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du+👍;+Be+very+welcome!)](https://git.io/typing-svg)
+# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du+👍;+Be+very+welcome!)](https://git.io/typing-svg)
 
 [<img src="https://img.shields.io/badge/Profile-0665d2?style=flat-square&logoColor=white" />](https://eduardo.dallatorre.dev/)
 [<img src="https://img.shields.io/badge/linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edudallatorre/)
@@ -20,7 +22,7 @@ I really enjoy teaching what I know and what I've been learning from others
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">  
-  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0665d1&icon_color=0865d1&text_color=ffffff&bg_color=0d1118" alt="Eduardo Dalla Torre github stats"/> 
+  <img width="49%" height="195px"  src="https://github-readme-stats.vercel.app/api?username=edudallatorre&show_icons=true&count_private=true&hide_border=true&title_color=0865d1&icon_color=0865d1&text_color=ffffff&bg_color=0d1118" alt="Eduardo Dalla Torre github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0865d1&text_color=0865d1&bg_color=0d1118"/>
 </div>
 
