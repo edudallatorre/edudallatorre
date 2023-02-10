@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20">
+# Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du+👍;+Be+very+welcome!)](https://git.io/typing-svg)
 
