@@ -17,7 +17,7 @@ I really enjoy teaching what I know and what I've been learning from others
 - 🏠 I'm based in Portsmouth, UK
 - 🧠 I'm currently learning more about web 3.0 and mobile
 - 🤝 Teamwork makes the dream work
-- <img src="https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif" width="24"> I love to share experience and make new friends.
+- <img src="https://user-images.githubusercontent.com/54871373/218267045-09100621-8985-4b73-96bf-f0a187980e61.gif" width="24"> I love to share experience and make new friends.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
