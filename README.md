@@ -1,4 +1,4 @@
-# Hey there ![hi](https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif)
+# Hey there ![hi](https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif | width=25)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du;+Be+very+welcome!)](https://git.io/typing-svg)
 
