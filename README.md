@@ -1,4 +1,4 @@
-# Hey there ![hi](https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif width="28")
+# Hey there ![hi](https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du;+Be+very+welcome!)](https://git.io/typing-svg)
 
@@ -64,24 +64,3 @@ I really enjoy teaching what I know and what I've been learning from others
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)&nbsp;
 
 ![Snake animation](https://github.com/eduardodallatorre/eduardodallatorre/blob/main/svg/grid-snake.svg)
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
