@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/codepen-0665d2?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/dallatorre.dev) 
 [<img src = "https://img.shields.io/badge/instagram-0665d2?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/edudallatorre/) 
 [<img src="https://img.shields.io/badge/discord-0665d2?style=flat-square&logo=discord&logoColor=white" />](https://discord.com/invite/EkYecEfjdN)
-[<img src="https://img.shields.io/badge/coffee-0665d2?style=flat-square&logo=buymeacoffee&logoColor=white" />](https://www.buymeacoffee.com/dallatorre.dev/)
+<!-- [<img src="https://img.shields.io/badge/coffee-0665d2?style=flat-square&logo=buymeacoffee&logoColor=white" />](https://www.buymeacoffee.com/dallatorre.dev/) -->
 <!-- [<img src="https://img.shields.io/badge/youtube-0665d2?style=flat-square&logo=youtube&logoColor=white" />](https://www.youtube.com/c/dallatorre) -->
 
 I'm a developer, Brazilian and passionate about programming and design. I have experience in Systems Analysis and Development, Business Administration and Graphic Design.
