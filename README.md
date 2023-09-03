@@ -31,8 +31,8 @@ I really enjoy teaching what I know and what I've been learning from others
 ### 🛠 &nbsp;Languages and tools: 
 
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=Php)&nbsp;
-![Java](https://img.shields.io/badge/-PHP-000000?style=flat&logo=Java)&nbsp;
-![Java](https://img.shields.io/badge/-PHP-000000?style=flat&logo=Php)&nbsp;
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=SpringBoot)&nbsp;
 ![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer)&nbsp;
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)&nbsp;
