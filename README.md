@@ -26,9 +26,9 @@ I really enjoy teaching what I know and what I've been learning from others
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edudallatorre&layout=compact&hide_border=true&title_color=0865d1&text_color=0865d1&bg_color=0d1118"/>
 </div>
 
-[![Eduardo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=edudallatorre&bg_color=0d1118&color=f5f5f7&line=0665d1&point=f5f5f7&area=true&hide_border=true)](https://github.com/edudallatorre/github-readme-activity-graph)
+[![Eduardo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edudallatorre&bg_color=0d1118&color=f5f5f7&line=0665d1&point=f5f5f7&area=true)](https://github.com/edudallatorre/github-readme-activity-graph)
 
-### 🛠 &nbsp;Languages and tools: 
+### 🛠 &nbsp;Technologies: 
 
 ![Php](https://img.shields.io/badge/-PHP-000000?style=flat&logo=Php)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)&nbsp;
@@ -57,9 +57,6 @@ I really enjoy teaching what I know and what I've been learning from others
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)&nbsp;
-
-### 📚 Study time
-
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony)&nbsp;
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)&nbsp;
