@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f5f7&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du;+Be+very+welcome!)](https://git.io/typing-svg)
 
 <!-- [<img src = "https://img.shields.io/badge/instagram-0665d2?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/edudallatorre/)
-[<img src="https://img.shields.io/badge/discord-0665d2?style=flat-square&logo=discord&logoColor=white" />](https://discord.com/invite/EkYecEfjdN)  -->
+[<img src="https://img.shields.io/badge/discord-0665d2?style=flat-square&logo=discord&logoColor=white" />](https://discord.com/invite/EkYecEfjdN)  
+[<img src="https://img.shields.io/badge/coffee-0665d2?style=flat-square&logo=buymeacoffee&logoColor=white" />](https://www.buymeacoffee.com/edudallatorre/) -->
 [<img src="https://img.shields.io/badge/Profile-0665d2?style=flat-square&logoColor=white" />](https://edudallatorre.vercel.app/)
 [<img src="https://img.shields.io/badge/linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edudallatorre/)
 [<img src="https://img.shields.io/badge/codepen-0665d2?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/edudallatorre) 
-[<img src="https://img.shields.io/badge/coffee-0665d2?style=flat-square&logo=buymeacoffee&logoColor=white" />](https://www.buymeacoffee.com/edudallatorre/)
 [<img src="https://img.shields.io/badge/youtube-0665d2?style=flat-square&logo=youtube&logoColor=white" />](https://www.youtube.com/@edudallatorre)
 ![youtube views](https://img.shields.io/youtube/channel/views/UCMFRiOKybPTLZAf6SQYiDQQ)
 
