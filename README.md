@@ -8,8 +8,8 @@
 [<img src="https://img.shields.io/badge/Profile-0665d2?style=flat-square&logoColor=white" />](https://edudallatorre.vercel.app/)
 [<img src="https://img.shields.io/badge/linkedin-0665d2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/edudallatorre/)
 [<img src="https://img.shields.io/badge/codepen-0665d2?style=flat-square&logo=codepen&logoColor=white" />](https://codepen.io/edudallatorre) 
-[<img src="https://img.shields.io/badge/youtube-0665d2?style=flat-square&logo=youtube&logoColor=white" />](https://www.youtube.com/@edudallatorre)
-![youtube views](https://img.shields.io/youtube/channel/views/UCMFRiOKybPTLZAf6SQYiDQQ)
+<!--[<img src="https://img.shields.io/badge/youtube-0665d2?style=flat-square&logo=youtube&logoColor=white" />](https://www.youtube.com/@edudallatorre)
+![youtube views](https://img.shields.io/youtube/channel/views/UCMFRiOKybPTLZAf6SQYiDQQ)-->
 
 I'm a developer, Brazilian and passionate about programming and design. I have experience in Systems Analysis and Development and Business Administration.
 
