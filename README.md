@@ -1,6 +1,6 @@
 # Hey there! <img src="https://user-images.githubusercontent.com/54871373/218266461-db91e064-5ffd-4976-afa1-8d6f679464cc.gif" width="30">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dddddd&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du;+Be+very+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=939393&size=38&left=true&vCenter=true&width=1000&lines=My+name+is+Eduardo+Dalla+Torre;but+you+can+call+me+Du;+Be+very+welcome!)](https://git.io/typing-svg)
 
 <!-- [<img src = "https://img.shields.io/badge/instagram-0665d2?style=flat-square&logo=instagram&logoColor=white">](https://www.instagram.com/edudallatorre/)
 [<img src="https://img.shields.io/badge/discord-0665d2?style=flat-square&logo=discord&logoColor=white" />](https://discord.com/invite/EkYecEfjdN)  
